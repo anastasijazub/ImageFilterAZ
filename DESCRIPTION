@@ -12,3 +12,5 @@ LazyData: true
 RoxygenNote: 7.3.2
 Imports: 
     magick
+URL: https://github.com/anastasijazub/ImageFilterAZ
+BugReports: https://github.com/anastasijazub/ImageFilterAZ/issues
